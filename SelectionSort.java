@@ -1,3 +1,4 @@
+/*new*/
 public class SelectionSort {
     public int sort( int arr[] ){
         int N = arr.length;
